@@ -1,8 +1,6 @@
 import 'dart:io';
 
-import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
-import 'package:path/path.dart';
 import 'package:provider/provider.dart';
 
 import '../controller.dart';
@@ -24,7 +22,7 @@ class AddSubscriberState extends State<AddSubscriber> {
     final controller = Provider.of<Controller>(context);
     return Scaffold(
       appBar: AppBar(
-        title: Text('add post'),
+        title: Text('add teacher'),
       ),
       body: SingleChildScrollView(
         child: Container(
