@@ -154,7 +154,7 @@ class Homestate extends State<Home> {
           ),
         ),
         appBar: AppBar(
-          title: Text('nassom'),
+          title: Text('teacher assistant'),
           bottom: TabBar(
             tabs: <Widget>[
               Tab(

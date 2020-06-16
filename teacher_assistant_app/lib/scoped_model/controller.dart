@@ -11,7 +11,7 @@ import 'dataBase.dart';
 class Controller extends ChangeNotifier {
   List<Note> _allNotes = List<Note>();
   List<Group> _allGroups = List<Group>();
-  Teacher _teacher = null;
+  Teacher _teacher;
   DataBase _dataBase = DataBase();
   FireBase _fireBase = FireBase();
   bool _databaseisLoading = false;
