@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "324097365787",
+    "firebase_url": "https://nasoom-ab5e9.firebaseio.com",
+    "project_id": "nasoom-ab5e9",
+    "storage_bucket": "nasoom-ab5e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324097365787:android:b4167ca6e0d139f1ca25be",
+        "android_client_info": {
+          "package_name": "com.example.teacher_assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324097365787-tih4ufcdmd7msiol689vp6u5pe8eckhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZm5kEJpEXuMq80--0rkLL1GpSeQCjT9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324097365787-tih4ufcdmd7msiol689vp6u5pe8eckhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
